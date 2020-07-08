@@ -1,0 +1,22 @@
+{
+    "people": [
+        {
+            "ID": "1",
+            "FirstName": "Benjamin",
+            "LastName": "Finkel",
+            "Email": "bfink4lyfe@gmail.com"
+        },
+        {
+            "ID": "2",
+            "FirstName": "Philip",
+            "LastName": "Smith",
+            "Email": "pmsmith@gmail.com"
+        },
+        {
+            "ID": "3",
+            "FirstName": "Jackie",
+            "LastName": "Haskell",
+            "Email": "jnh@gmail.com"
+        }
+    ]
+}
