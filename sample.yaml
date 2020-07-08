@@ -1,0 +1,18 @@
+---
+people:
+- Id: 1
+  FirstName: Benjo
+  LastName: Finkel
+  Email: BoJo@gmail.com
+- Id: 2
+  FirstName: Philip
+  LastName: Smith
+  Email: pmsmith@gmail.com
+- Id: 3
+  FirstName: Jax
+  LastName: Haskell
+  Email: jnh@gmaiol.com
+...
+---
+first: one
+second: 2
