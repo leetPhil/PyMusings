@@ -15,4 +15,9 @@
         <LastName>McGruder</LastName>
         <Email>bfink4lyfe@gmail.com</Email>
     </Person>
+    <Person Id="4">
+        <FirstName>Jackie</FirstName>
+        <LastName>Haskell</LastName>
+        <Email>coppertop@gmail.com</Email>
+    </Person>        
 </People>
